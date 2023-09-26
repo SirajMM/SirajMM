@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce application**
+- 🔭 I’m currently working on **Rent Truck Drivers application**
 
-- 🌱 I’m currently learning **Flutter,Firebase**
+- 🌱 I’m currently learning **Push Notification**
 
 - 💬 Ask me about **Flutter**
 
