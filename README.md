@@ -1,32 +1,48 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Siraj M M</h1>
-<h3 align="center">A passionate flutter developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1>Hi, I'm Muhammad Siraj M M 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sirajmm&label=Profile%20views&color=0e75b6&style=flat" alt="sirajmm" /> </p>
+<p><b>Flutter developer building fintech, remittance and payments apps</b><br/>
+Mobile Application Developer at ThoughtBox Online Services, Kochi · 3+ years with Flutter</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Rent Truck Drivers application**
-
-- 🌱 I’m currently learning **Push Notification**
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **sirajmuhammed718@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/muhammed.siraj.509994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammed siraj m m" height="30" width="40" /></a>
-<a href="https://instagram.com/s_i__r__a_j?igshid=NzMyMjgxZWIzNw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_i__r__a_j" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-siraj-m-m-3ab64a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Siraj M m" height="30" width="40" /></a>  
+<p>
+<a href="https://sirajmm.github.io/"><img src="https://img.shields.io/badge/Portfolio-sirajmm.github.io-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sirajmm"><img src="https://img.shields.io/badge/LinkedIn-sirajmm-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sirajmuhammed718@gmail.com"><img src="https://img.shields.io/badge/Email-sirajmuhammed718%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+## What I work on
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirajmm&show_icons=true&locale=en&layout=compact" alt="sirajmm" /></p>
+I build and maintain a family of production fintech apps — money transfer, currency exchange, bill payments and compliance tooling — shipped from one Flutter codebase to **Android, iOS, macOS and Windows**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirajmm&show_icons=true&locale=en" alt="sirajmm" /></p>
+- **Architecture** — BLoC across feature modules, a shared library of reusable widgets, and token-based theming with `ThemeExtension` so several branded apps share one design system
+- **Backend integration** — typed gRPC clients against Go microservices, plus REST where needed
+- **Payments & compliance** — remittance and beneficiary flows, utility bill-payment integrations, and AML / sanctions watchlist screening screens
+- **Platform work** — push notifications (FCM / APNs) on mobile and desktop, macOS build and signing, native PDF printing and viewing
+- **Security & release** — VAPT remediation on Android and iOS, Play Store production go-live with forced-update and rollback strategy
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirajmm&" alt="sirajmm" /></p>
+## Tech stack
+
+**Mobile & UI**<br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/BLoC-1E88E5?style=flat-square" alt="BLoC"/>
+<img src="https://img.shields.io/badge/Provider-546E7A?style=flat-square" alt="Provider"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+
+**Backend & data**<br/>
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square&logo=grpc&logoColor=white" alt="gRPC"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/REST-6DB33F?style=flat-square" alt="REST"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Hive-FF7A00?style=flat-square" alt="Hive"/>
+
+**Platforms & tooling**<br/>
+<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
+<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macos&logoColor=white" alt="macOS"/>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
+
+## A note on this profile
+
+Most of my day-to-day work lives in private company repositories, so the public repos here are earlier learning projects. Happy to walk through architecture and code samples on request.
