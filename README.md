@@ -4,6 +4,10 @@
 Mobile Application Developer at ThoughtBox Online Services, Kochi · 3+ years with Flutter</p>
 
 <p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&width=620&lines=Flutter+developer+%C2%B7+fintech+%26+payments;BLoC+%C2%B7+gRPC+%C2%B7+Go+microservices;One+codebase+%E2%86%92+Android+%C2%B7+iOS+%C2%B7+macOS+%C2%B7+Windows" alt="Flutter developer · fintech & payments · BLoC · gRPC · Go"/>
+</p>
+
+<p>
 <a href="https://sirajmm.github.io/"><img src="https://img.shields.io/badge/Portfolio-sirajmm.github.io-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/sirajmm"><img src="https://img.shields.io/badge/LinkedIn-sirajmm-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sirajmuhammed718@gmail.com"><img src="https://img.shields.io/badge/Email-sirajmuhammed718%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
